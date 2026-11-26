@@ -34,7 +34,7 @@ The post-change tests used `7.3.5-ogc3.1.fc45.x86_64`.
 Because both BIOS settings and the kernel changed between the two
 stock-voltage baselines, that comparison cannot isolate the effect
 of Resizable BAR.
-[Download the stock-voltage CSV files](./rx7600-stock-baselines/)
 The post-change 0 mV runs serve as the stock-voltage reference for the
 undervolt trials. The stock-voltage CSV filenames contain `pre_bios`
 or `post_bios` to identify the corresponding baseline.
+[Download the stock-voltage CSV files](./rx7600-stock-baselines/)
