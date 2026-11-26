@@ -49,5 +49,4 @@ Each point represents one benchmark run. The additional -35 mV run was recorded 
 
 In the final Minecraft session, the -25, -30 and -35 mV offsets avaraged 137.92 - 138.03 FPS at about 134 W of reported GPU power. The -25 mV reference differed by 1.83 FPS between sessions, while the three offset avareges in the final session differed by only 0.11 FPS.
 
-I kept -25 mV as my provisional daily setting. It performed similarly.
-I observed no graphical artifacts during the benchmark runs. I also played Minecraft for about four hours at −25 mV without encountering any issues. Based on those results, I kept −25 mV as my provisional daily setting.
+In the final benchmark session, −35 mV had the highest average frame rate at 138.03 FPS, just 0.11 FPS ahead of −25 mV. Both settings averaged about 134 W of reported GPU power. I kept −25 mV as my provisional daily setting after playing Minecraft for about four hours without encountering any issues.
